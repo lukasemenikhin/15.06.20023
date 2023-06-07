@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\bin\Debug\net6.0\axalidavaleba.exe
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\bin\Debug\net6.0\axalidavaleba.deps.json
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\bin\Debug\net6.0\axalidavaleba.runtimeconfig.json
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\bin\Debug\net6.0\axalidavaleba.dll
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\bin\Debug\net6.0\axalidavaleba.pdb
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\axalidavaleba.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\axalidavaleba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\axalidavaleba.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\axalidavaleba.AssemblyInfo.cs
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\axalidavaleba.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\axalidavaleba.dll
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\refint\axalidavaleba.dll
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\axalidavaleba.pdb
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\axalidavaleba.genruntimeconfig.cache
+C:\Users\student\Desktop\New Folder Visual Studio 2022\axalidavaleba\axalidavaleba\obj\Debug\net6.0\ref\axalidavaleba.dll
